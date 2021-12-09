@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've pinned some of my public projects below that you can check out. Most of these repos are solo projects in IOS development with Swift or data analytics with Python. A lot of my work for my classes is in C++, but those repos are private.
+I've pinned some of my public projects below that you can check out. Most of these repos are solo projects in IOS development with Swift or data analytics with Python. Most of my work for my classes is in C++, but those repos are private.
 
 <!--
 **PatrickMcElroy/PatrickMcElroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
